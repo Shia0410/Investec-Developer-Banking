@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\InvDevBank-Backend.props" />
+</Project>
